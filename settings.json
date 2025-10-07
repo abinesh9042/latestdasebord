@@ -1,11 +1,11 @@
 {
     "host": "0.0.0.0",
     "port": "8000",
-    "password": "",
-    "client_id": "",
-    "client_secret_id": "",
-    "secret_key": "",
-    "redirect_url": "http://127.0.0.1:8000/callback",
+    "password": "rocky",
+    "client_id": "1408519938423128115",
+    "client_secret_id": "_lXR_GnT70MoKcGObEX0Ni9PgJH0M7FI",
+    "secret_key": "sofimusicsystem",
+    "redirect_url": "http://sofimusic.up.railway.app/callback",
     "logging": {
         "file": {
             "path": "./logs",
